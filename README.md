@@ -1,6 +1,6 @@
 ### Hi there, I'm Juan Ramirez 👋 
 
-- 🔭 I’m currently working Clear-Tech. as Azure and Talend Data Engineer
+- 🔭 I’m currently working at Clear-Tech as Azure and Talend Data Engineer
 
 <!--
 **jramirez211/jramirez211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

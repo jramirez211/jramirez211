@@ -1,6 +1,6 @@
 ### Hi there, I'm Juan Ramirez 👋 
 
-- 🔭 I’m starting a new journey as Senior Talend Consultant
+- 🔭 I’m enjoyning my journey as Senior Azure Databricks Data Engineer
 
 <!--
 **jramirez211/jramirez211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
